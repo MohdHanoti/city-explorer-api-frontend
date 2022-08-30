@@ -8,10 +8,7 @@ import Header from "./component/Header";
 
 
 class App extends React.Component{
-    // constructor(props){
-    //   super(props);
-    // }
-
+    
 render(){
     return(
         <div>
